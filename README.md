@@ -1,4 +1,16 @@
-<h2 align="left">I am a **third-year student** pursuing a **Bachelor of Science in Information Technology (BSIT)** at **Our Lady of Fatima University (OLFU)**.<br><br>My academic focus is currently centered on core concepts of **software development**, including Object-Oriented Programming (OOP), database management, and building full-stack applications.<br><br>I am actively working to transition classroom theory into practical skills, with a strong interest in [mention your specific area of interest, e.g., **cloud technologies** / **front-end development using React** / **data analysis with Python**]. My goal is to leverage my skills to contribute to impactful software projects.</h2>
+<h2 align="left">👨‍🎓 About Me</h2>
+
+<p>
+    I am a <strong>third-year student</strong> pursuing a <strong>Bachelor of Science in Information Technology (BSIT)</strong> at <strong>Our Lady of Fatima University (OLFU)</strong>.
+</p>
+
+<p>
+    My academic focus is currently centered on core concepts of <strong>software development</strong>, including <strong>Object-Oriented Programming (OOP)</strong>, <strong>database management</strong>, and building <strong>full-stack applications</strong>.
+</p>
+
+<p>
+    I am actively working to transition classroom theory into practical skills, with a strong interest in <strong>[mention your specific area of interest, e.g., cloud technologies / front-end development using React / data analysis with Python]</strong>. My goal is to leverage my skills to contribute to impactful software projects.
+</p>
 
 ###
 
