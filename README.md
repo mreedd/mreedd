@@ -13,7 +13,7 @@
 </p>
 
 <p>
-    I am actively working to transition classroom theory into practical skills, with a strong interest in building engaging user interfaces (UIs) and creating clean, responsive web applications. My goal is to leverage my skills to contribute to impactful software projects.
+   I currently enjoy turning theory into code, specializing in building clean, modern web interfaces. I aim to use my technical skills to contribute to impactful software projects.
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
